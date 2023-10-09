@@ -9,6 +9,8 @@
 5. Trained the model on train dataset
 6. Validated and Tested using map50 metrics
 
+The same logic may be used for any other object detection.
+
 Locally tested on the webcam.
 
 Inspired by github.com/nicknochnack 's video on facedetection
