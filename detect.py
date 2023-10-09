@@ -3,7 +3,7 @@ from ultralytics import YOLO
 import os 
 
 # Load the YOLOv8 model
-
+# Change path as required
 model_path = os.path.join('.','kaggle','working', 'runs', 'detect', 'train', 'weights', 'last.pt')
 model = YOLO(model_path)
 
